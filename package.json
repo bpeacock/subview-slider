@@ -1,0 +1,18 @@
+{
+  "name": "subview-slider",
+  "description": "A Slider Subview",
+  "version": "0.0.0",
+  "author": "Brian Peacock",
+  "main": "Slider.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {
+    "subview": "0.2.x",
+    "unopinionate": "0.0.4",
+    "prefix": "~0.2.1"
+  },
+  "license": "MIT",
+  "keywords": []
+}
